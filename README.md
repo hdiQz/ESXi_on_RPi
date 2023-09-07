@@ -1,6 +1,6 @@
 # ESXi_on_RPi
-记录在树莓派上安装EXSi的学习成果
-参考视频：
+记录在树莓派上安装EXSi的学习成果  
+参考视频：  
 1. https://youtu.be/6aLyZisehCU
 2. https://youtu.be/Ui5GHnDv3rU
 ## 硬件
